@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-i11zmh.juragan89.online/sitemap.xml
